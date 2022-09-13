@@ -8,7 +8,7 @@
 - TailwindCss
 
 ## Features
-- Save your Expenses in LocalStorage
+- Save your Expenses in Browser
 - Can perform Add Expense, Delete Expense, Update Expense, Read Expense
 
 Thank You
